@@ -1,0 +1,44 @@
+/.phpunit.cache
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/storage/pail
+/vendor
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.DS_Store
+.phpactor.json
+_ide_helper.php
+Thumbs.db
+
+/auth.json
+/public/fonts-manifest.dev.json
+*.log
+
+## Docker
+/docker
+/.dockerignore
+/docker-compose.local.yml
+/docker/service/**
+/.env.local
+/makefile
+
+## services helper
+/phpinfo.php
+/xdebug.php
+
+## каталог с внутренними ТЗ
+/doc/TZ
+
+## IDE
+.ai/
+.idea/
+.vscode/
